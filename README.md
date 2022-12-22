@@ -1,6 +1,3 @@
-# einfuehrung-softwareentwicklung
-Eine Einführung in die Softwareentwicklung
-
 # Über das Dokument
 In diesem Repository möchte ich dir die Grundlagen der professionellen Softwareentwicklung erläutern. Im Unterschied zu anderen Dokumenten lege ich hierbei nicht den Fokus darauf mit minimalen Anweisungen Code zu erstellen. Es besteht dabei die Gefahr dass mit gefährlichen Halbwissen schlechte, anfällige Software zu erstellen und zu veröffentlichen. Daher sind einige Kapitel länger als in anderen Dokumenten, geben jedoch einen erweiterten Überblick wie Software professionell entwickelt wird.
 
@@ -32,7 +29,9 @@ Im Vergleich dazu kann eine Entwicklungsumgebung verwendet werden um bei der Arb
 * Unterstützung bei der Verwaltung mehrerer Versionen
 
 **Tipp:**
+
 Beim Bereitstellen/Ausliefern einer Software solltet ihr dafür sorgen dass klar ist was benötigt wird damit die Software **läuft**. Es ist für den Endnutzer meist nicht notwendig eine Entwicklungsumgebung zu benutzen, die Laufzeitumgebung sollte ausreichen.
 
 **Beispiel:**
+
 Ihr bestellt bei einer Pizzeria eine Pizza. Anhand einer Zubereitungsanweisung (ähnlich wie "Code") wird wird die Pizza in der Küche mit Küchenutensilien zubereitet, jene wären mit einer Entwicklungsumgebung gleichzusetzen. Den Ofen könnte man als Compiler in der Entwicklungsumgebung sehen. Als Ergebnis würde eine Pizza ("Anwendung") herauskommen die übergeben/ausgeliefert wird. Für das Essen der Pizza (gleich zur Nutzung der Anwendung) benötigt ihr ggf. einen Teller/Karton, ggf. noch Besteck was der Laufzeitumgebung entsprechen würde. Ich würdet sicherlich nicht erwarten dass bei Lieferung einer Pizza der gesamte Pizza-Ofen mitgeliefert wird.
